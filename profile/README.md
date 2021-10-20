@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Flow](./TimeMateFlow.png)
+![Flow](./profile/TimeMateFlow.png)
 
 <!--
 
